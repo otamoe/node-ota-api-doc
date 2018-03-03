@@ -1,0 +1,1 @@
+define({  "name": "ota-api",  "version": "0.1.13",  "description": "",  "json_body": true,  "url": "http://localhost:3000",  "sampleUrl": "http://localhost:3000",  "defaultVersion": "0.0.0",  "apidoc": "0.3.0",  "generator": {    "name": "apidoc",    "time": "2018-03-03T17:03:02.920Z",    "url": "http://apidocjs.com",    "version": "0.17.6"  }});
